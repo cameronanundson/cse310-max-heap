@@ -17,6 +17,7 @@ make
 ./assignment4
 
 The following describes the commands that are allowed:
+
 COMMAND:     create n
 
 CONSTRAINTS: n >= 0
