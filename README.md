@@ -1,7 +1,6 @@
 # README
-
-## CSE 310, Nakamura, M/W 3:05PM
-## Assignment 4
+CSE 310, Nakamura, M/W 3:05PM
+Assignment 4
 
 # README Organization
 - Description
